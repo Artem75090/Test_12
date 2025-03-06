@@ -4,6 +4,7 @@ import "fmt"
 
 func Test2() {
 	fmt.Println("я тест 22555")
+	fmt.Println("я тест 555")
 
 }
 
