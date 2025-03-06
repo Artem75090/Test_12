@@ -8,6 +8,6 @@ func Test2() {
 }
 
 func main() {
-	fmt.Println(1)
+	fmt.Println(12)
 
 }
