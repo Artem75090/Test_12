@@ -10,16 +10,12 @@ func Test2() {
 func Test4() {
 	fmt.Println("я тест 789")
 	fmt.Println("я тест 321")
-}
-func Test3() {
-	fmt.Println("я тест 225")
-
+	fmt.Println("я тест 3251")
+	fmt.Println("я тест 3241")
 }
 
 func main() {
 	fmt.Println(1)
-	Test2()
-	Test3()
 	Test2()
 	Test4()
 
